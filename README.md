@@ -7,8 +7,7 @@ Repo to hold code projects from Python Developer course on Linkedin Learning
 
 Created hello world application calling the main function using 
 
-if __name__ == "__main__":
-    
+    if __name__ == "__main__":
         main()
         
         
@@ -21,5 +20,12 @@ declared variable
 **_Lesson 3: Python Functions_**
 
 Learned how to build basic functions taking variable amounts of arguments
+
+**_Lesson 4: Conditional Statements_**
+
+learned how to build conditional statement with if, elif and else
+also learnt to build compound conditional statements of the form
+
+    st = "This will print if x is greater than y" if(x > y) else ("this will print if y is greater than x)
 
 
