@@ -1,5 +1,6 @@
 # Python-Dev
 Repo to hold code projects from Python Developer course on Linkedin Learning
 
+**_Course: Learning Python_**
 
-**__Lesson 1__**
+**_Lesson 1_**
