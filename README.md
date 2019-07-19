@@ -18,4 +18,8 @@ created variables, learned about scope and re-assignment,
 also learnt about the del function which clear a previously 
 declared variable
 
+**_Lesson 3: Python Functions_**
+
+Learned how to build basic functions taking variable amounts of arguments
+
 
