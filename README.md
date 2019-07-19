@@ -14,4 +14,8 @@ if __name__ == "__main__":
         
 **_Lesson 2: Variable and Expressions_**
 
+created variables, learned about scope and re-assignment, 
+also learnt about the del function which clear a previously 
+declared variable
+
 
