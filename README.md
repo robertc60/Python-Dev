@@ -42,3 +42,4 @@ the day of the week would be held in d and the loop index
 in the variable i
 
 **_Test to see if i can sign commit_**
+**_Second test to see if commit is signed_**
