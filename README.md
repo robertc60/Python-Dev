@@ -28,4 +28,15 @@ also learnt to build compound conditional statements of the form
 
     st = "This will print if x is greater than y" if(x > y) else ("this will print if y is greater than x)
 
+**_Lesson 5: Loops_**
 
+learned how to build loops in python using while and for. 
+also learned how to get the the loop index using enumerate
+
+     days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+     for i,d in enumerate(days):
+        print(i, d)
+        
+this would print the day of the week and the loop index. 
+the day of the week would be held in d and the loop index 
+in the variable i
