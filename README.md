@@ -45,4 +45,4 @@ in the variable i
 
 **_Second test to see if commit is signed_**
 
-
+***Added Coding Challenges to github repository 30/07/2019***
